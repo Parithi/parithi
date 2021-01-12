@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>    
 
   <img align="center" src="https://stat-parithi.vercel.app/api?username=parithi&show_icons=true&include_all_commits=true&theme=default" alt="Parithi's github stats" />
-  <br/><br/>
+  <br/>
   <img align="center" src="https://stat-parithi.vercel.app/api/top-langs/?username=parithi&layout=compact&theme=default" />
 <!-- <img align="center" src="https://stat-parithi.vercel.app/api/pin/?username=parithi&repo=github-readme-stats&theme=material-palenight" />
   <img align="center" src="https://stat-parithi.vercel.app/api/pin/?username=parithi&repo=parithi.github.io&theme=material-palenight" /> -->  
