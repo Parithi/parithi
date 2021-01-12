@@ -12,7 +12,7 @@
 <br/><br/>
 - 🔭 I’m currently building [Optimity](https://www.myoptimity.com/)
 - 🌱 I’m currently learning React, Flutter, Jetpack Compose & SwiftUI
-- 👯 I’m looking to collaborate on some mobile open source projects!
+- 👯 I’m looking to collaborate on some mobile open source projects
 - ⚡ Fun fact: I love Food 🍝 & Video Games! 🎮
 
 
