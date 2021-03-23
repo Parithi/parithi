@@ -10,7 +10,7 @@
 
 
 <br/><br/>
-- 🔭 I’m currently building mobile apps for [Optimity](https://www.myoptimity.com/)
+- 🔭 I’m currently a Lead Mobile Developer at [Optimity](https://www.myoptimity.com/) <img height="16" src="https://i2.wp.com/blog.myoptimity.com/wp-content/uploads/2021/03/cropped-optimity-favicon.png?fit=16%2C16&ssl=1">
 - 🌱 I’m currently learning React, Flutter, Jetpack Compose & SwiftUI
 - 👯 I’m looking to collaborate on some mobile open source projects
 - ⚡ Fun fact: I love Food 🍝 & Video Games! 🎮
