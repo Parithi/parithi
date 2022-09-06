@@ -10,7 +10,7 @@
 
 
 <br/><br/>
-- 🔭 I’m currently a Senior Software Engineer II at [MasterClass](https://www.masterclass.com/) <img height="16" src="https://images.ctfassets.net/ov6oufbwq1qf/1i731LQ93710iNodUCZ2Ra/93b062e3afb87ba6adacdbd71d7f8250/masterclass_logo_2.png?w=300&h=189&q=50&fm=png">
+- 🔭 I’m currently a Senior Software Engineer II at [MasterClass](https://www.masterclass.com/) <img height="16" src="https://www.masterclass.com/_next-public/favicon.ico">
 - 🌱 I’m currently learning React, Flutter, Jetpack Compose & SwiftUI
 - 👯 I’m looking to collaborate on some mobile open source projects
 - ⚡ Fun fact: I love Food 🍝 & Video Games! 🎮
